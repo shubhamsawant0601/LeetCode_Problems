@@ -1,7 +1,8 @@
 # LeetCode Problems
 ### 1. Programming
-      1. Java
-      2. Python
+    Languages - 
+    1. Java
+    2. Python
     Topics -
     1. Arrays
     2. Strings
