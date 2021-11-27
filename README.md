@@ -1,9 +1,9 @@
 # LeetCode Problems
 ### 1. Programming
-    Languages - 
+    #### Languages - 
     1. Java
     2. Python
-    Topics -
+    #### Topics -
     1. Arrays
     2. Strings
     3. Mathematics
